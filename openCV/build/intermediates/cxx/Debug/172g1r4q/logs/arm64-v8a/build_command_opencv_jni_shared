@@ -1,0 +1,4 @@
+/Users/olulodeolatunbosun/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a \
+  opencv_jni_shared

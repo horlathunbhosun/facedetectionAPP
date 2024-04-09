@@ -1,0 +1,1 @@
+/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/172g1r4q/obj/x86

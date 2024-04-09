@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1380329818
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 220085166
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1096133058
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1321274496
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1903350572
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a\u0027",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 817257615
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a\u0027",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 728096003
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/olulodeolatunbosun/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/olulodeolatunbosun/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/olulodeolatunbosun/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/olulodeolatunbosun/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/olulodeolatunbosun/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/172g1r4q/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/172g1r4q/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1943971344
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/olulodeolatunbosun/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/olulodeolatunbosun/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/olulodeolatunbosun/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/olulodeolatunbosun/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/olulodeolatunbosun/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/172g1r4q/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/172g1r4q/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1306540047
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a/compile_commands.json.bin normally",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 383681256
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2079270473
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/172g1r4q/arm64-v8a/metadata_generation_command.txt",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1257039736
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/olulodeolatunbosun/AndroidStudioProjects/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -277623739
+  }
+]
